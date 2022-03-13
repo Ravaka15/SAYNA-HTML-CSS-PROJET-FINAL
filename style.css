@@ -239,4 +239,38 @@
   background-color: #d35649;
   width: 300px;
 }
+
+
+
+/* 
+css About page */
+
+.content{ 
+  text-align: center;
+  padding-top: 30px;
+  height: 500px;
+  margin-top: 50px;
+  box-shadow: 10px 10px 5px #98a5a5 inset;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.con{
+color: #d35649;
+}
+.content1{
+padding: 15px;
+border:solid 1px;
+width: 400px;
+box-shadow: 3px 3px 3px 3px #98a5a5;
+text-align: center;
+margin-left: 130px;
+margin-top: 25px;
+}
+.content2{
+
+margin-top: 20px;
+margin-left: 350px;
+color:#f2f2f2;
+}
+
  
